@@ -1,0 +1,20 @@
+.albums {
+  width: 300px;
+  float: left;
+}
+.songs {
+  width: 300px;
+  float: left;
+}
+.members{
+  width: 300px;
+  float: left;
+}
+.sidebar {
+  float: right;
+  background-color: yellow;
+}
+.pic {
+  float: right;
+  width: 200px;
+}
